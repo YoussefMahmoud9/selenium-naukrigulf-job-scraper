@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+logs/
+*.log
+data_engineer_jobs.csv
+chrome-profile/
+browser-profile/
